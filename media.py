@@ -12,6 +12,6 @@ media = sum(notas) / len(notas)
 print(f"A média das notas é: {media:.2f}")
 
 if media >= 6:
-    print("***Aprovado parabens!!!!!*****")
+    print("***Aprovado Parabens!!!!!*****")
 else:
-    print("____Reprovado seu burro____ .!.")
+    print("____Reprovado seu Burro____ .!.")
